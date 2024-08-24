@@ -1,0 +1,6 @@
+{
+  "dagJokes": "DAG Jokes",
+  "@dagJokes": {
+    "description": "The name of the application, DAG is Directed acyclic graph"
+  }
+}
